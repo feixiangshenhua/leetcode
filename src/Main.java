@@ -4,6 +4,7 @@ public class Main {
         System.out.println("Hello World!");
         int a = 3;
         Integer b = 3;
+        System.out.println("aaaa");
         System.out.println(a == b);
     }
 }
